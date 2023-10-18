@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+
+#main{
+    width:500px;
+    height:500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}
+.simon{
+    width:200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+.red{
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.pink{
+    background-color: pink;
+}
+
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}

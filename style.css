@@ -1,0 +1,42 @@
+
+body {
+  text-align: center;  
+ 
+}
+#simon-Game{
+    width:500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
+.simon{
+    width:200px;
+    height:200px;
+    border:10px solid black;
+    border-radius: 20px;
+}
+.pink {
+    background-color: palevioletred;
+}
+.blue {
+    background-color: blueviolet;
+}
+.orange {
+    background-color: orange;
+}
+.navy {
+    background-color: navy;
+}
+
+.white {
+    background-color: white;
+}
+
+.green{
+    background-color: green;
+}
